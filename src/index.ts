@@ -1,1 +1,1 @@
-console.log('Typescript Starter Boilerplate...')
+console.log('Typescript Starter Boilerplate...');
